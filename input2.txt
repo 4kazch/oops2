@@ -1,0 +1,3 @@
+Java is Simple
+Java is Multithreaded
+Java is Secure
